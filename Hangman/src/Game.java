@@ -3,7 +3,7 @@ public class Game {
   private String answer;
   private String hits;
   private String misses ;
-  public static final int MAX_MISSES = 7 ;
+  public static final int MAX_MISSES = 8 ;
   public Game (String answer)
   {
 	  this.answer = answer ;
